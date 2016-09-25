@@ -1,0 +1,2 @@
+# gitTemplate2
+template
